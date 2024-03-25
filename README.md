@@ -1,3 +1,7 @@
+![Bg](https://github.com/Himanshipatel04/Himanshipatel04/assets/143187472/f7496aa8-75ea-4d1c-8d01-a0476e0cf1e5)
+
+
+
 - 👋 Hi, I’m Himanshi Patel.
 
 - 🌱 I’m a passionate data science student exploring the realms of machine learning, data structures and algorithms (DSA), and web development. My journey involves mastering various tools and technologies to solve real-world problems and build innovative solutions.

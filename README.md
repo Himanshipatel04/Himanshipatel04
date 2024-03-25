@@ -1,6 +1,3 @@
-![Bg](https://github.com/Himanshipatel04/Himanshipatel04/assets/143187472/1dcd428d-118a-45ef-8b2c-166bb286a870)
-
-
 
 - 👋 Hi, I’m Himanshi Patel.
 

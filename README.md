@@ -17,7 +17,7 @@
 
 - Languages: C, Python, C++, JavaScript.
 - Data Analysis: Pandas, NumPy, MySQL, SQLite3.
-- Machine Learning : Scikit-Learn.
+- Machine Learning : Linear Regression , Logistic Regression , Support Vector Machine.
 - Data Visualization: Matplotlib, Seaborn, Excel, Power BI.
 - Web Development: HTML, CSS, JavaScript.
 - Tools & Technologies: Git, Jupyter Notebook, Visual Studio Code.

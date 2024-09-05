@@ -5,20 +5,19 @@
 
 ## About Me
 
-- 🌱 Currently learning machine learning algorithms, DSA, and web development technologies.
+- 🌱 Currently learning DSA and web development technologies.
 - 💼 Actively seeking internships or opportunities to apply my skills and knowledge in data science and web development.
 - 🎓 Pursuing a degree in B.Tech.
 - 📚 Constantly expanding my knowledge in Python, C++, JavaScript, HTML, CSS, and other relevant technologies.
 - 📊 Experienced in data manipulation and analysis using Pandas, NumPy, MySQL, SQLite3.
-- 📈 Skilled in data visualization with Matplotlib, Seaborn, Excel, and Power BI.
+- 📈 Skilled in data visualization with Matplotlib, Seaborn.
 
 
 ## Skills
 
 - Languages: C, Python, C++, JavaScript.
 - Data Analysis: Pandas, NumPy, MySQL, SQLite3.
-- Machine Learning : Linear Regression , Logistic Regression , Support Vector Machine.
-- Data Visualization: Matplotlib, Seaborn, Excel, Power BI.
+- Data Visualization: Matplotlib, Seaborn.
 - Web Development: HTML, CSS, JavaScript.
 - Tools & Technologies: Git, Jupyter Notebook, Visual Studio Code.
 

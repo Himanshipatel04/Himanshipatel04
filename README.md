@@ -15,11 +15,8 @@
 
 ## Skills
 
-- Languages: C, Python, C++, JavaScript.
-- Data Analysis: Pandas, NumPy, MySQL, SQLite3.
-- Data Visualization: Matplotlib, Seaborn.
-- Web Development: HTML, CSS, JavaScript.
-- Tools & Technologies: Git, Jupyter Notebook, Visual Studio Code.
+Technical : Python  ·  Javascript  ·  Node.Js  ·  React  ·  Next.js  ·  Express  ·  SQL   ·   MongoDB  · RESTful APIs
+                        Git & Github  ·  Slack   ·  DBMS  · DSA  · OOPS   · Operating System   · Computer Networks
 
 ### GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Himanshipatel04&theme=dark&hide_border=true)<br/>

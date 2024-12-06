@@ -15,7 +15,7 @@
 
 ## Skills
 
-Technical : Python  ·  Javascript  ·  Node.Js  ·  React  ·  Next.js  ·  Express  ·  SQL   ·   MongoDB  · RESTful APIs
+Technical : Python  ·  Javascript  ·  Node.Js  ·  React  ·  Next.js  ·  Express  ·  SQL   ·   MongoDB  · RESTful APIs -
                         Git & Github  ·  Slack   ·  DBMS  · DSA  · OOPS   · Operating System   · Computer Networks
 
 ### GitHub Stats:

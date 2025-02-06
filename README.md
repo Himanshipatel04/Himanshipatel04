@@ -20,7 +20,7 @@ Technical : Python  ·  Javascript  ·  Node.Js  ·  React  ·  Next.js  ·  Exp
 
 ### GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Himanshipatel04&theme=dark&hide_border=true)<br/>
-
+![HimanshiPatel04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimanshiPatel04&theme=vision-friendly-dark&hide_border=true)
 
 Feel free to reach out to collaborate, discuss projects, or share ideas!
 

@@ -1,6 +1,6 @@
 # Himanshi Patel  
 **Passionate Data Science & Web Development Enthusiast**  
-**B.Tech 2nd Year Student | MERN Stack Developer | Python & DSA Enthusiast**  
+**B.Tech 3rd Year Student | MERN Stack Developer | Python & DSA Enthusiast**  
 
 ## 🚀 About Me  
 I am a tech enthusiast who enjoys building **innovative projects** and solving **real-world problems** using technology.  

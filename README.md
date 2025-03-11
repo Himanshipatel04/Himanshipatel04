@@ -1,17 +1,37 @@
+Hi there, I'm Himanshi Patel
 
-- 👋 Hi, I’m Himanshi Patel.
+Passionate Data Science & Web Development EnthusiastB.Tech 2nd Year Student | MERN Stack Developer | Python & Data Structures EnthusiastExploring Machine Learning, DSA, and Full Stack Development
 
-- 🌱 I’m a B.Tech. student exploring the realms of data structures and algorithms (DSA), and web development. My journey involves mastering various tools and technologies to solve real-world problems and build innovative solutions.
+About Me
 
-## Skills
+I am passionate about building innovative projects and solving real-world problems using technology.
 
-Technical : Python  ·  Javascript  ·  Node.Js  ·  React  ·  Next.js  ·  Express  ·  SQL ·  Docker  ·   MongoDB  · RESTful APIs -
-                        Git & Github  ·  Slack   ·  DBMS  · DSA  · OOPS   · Operating System   · Computer Networks
+Skilled in Python, C++, JavaScript, HTML, CSS, and frameworks like Django & React.js.
 
-### GitHub Stats:
-![HimanshiPatel04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimanshiPatel04&theme=vision-friendly-dark&hide_border=true)
+Experienced with MongoDB, MySQL, SQLite3, Firebase.
 
-Feel free to reach out to collaborate, discuss projects, or share ideas!
+Data Science Enthusiast with experience in Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI.
+
+Currently working on MERN & Firebase-based projects, implementing search, mentorship, and project-sharing features.
+
+Looking for internships in Python Development & Web Development.
+
+Exploring DSA & Algorithms, with 300+ problems solved on LeetCode.
+
+
+Tech Stack
+Languages & Frameworks: Python, JavaScript, C++, React, Django
+Databases & Cloud: MongoDB, MySQL, Firebase
+Tools & Technologies: GitHub, VS Code, Postman, Render, Vercel
 
 
 
+Connect with Me
+
+LinkedIn: [Himanshi Patel](https://www.linkedin.com/in/himi04/)
+
+Portfolio: [Link](https://dev-himi.vercel.app/)
+
+Email: himanship871@gmail.com
+
+Let's connect and collaborate.

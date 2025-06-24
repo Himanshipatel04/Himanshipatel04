@@ -6,7 +6,7 @@ Currently in final year of engineering at IES College of Technology, Bhopal. Pas
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)

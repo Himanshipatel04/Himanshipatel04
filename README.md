@@ -1,80 +1,85 @@
 # Himanshi Patel
 
-Full Stack Developer | Learner | Problem Solver  
-Currently pursuing Engineering from IES College of Technology, Bhopal  
-CGPA: 8.3 | 10th: 96% | 12th: 94%  
+Full Stack Developer | Problem Solver | Tech Explorer
+
+Currently in final year of engineering at IES College of Technology, Bhopal. Passionate about building, solving real-world problems, and constantly learning new technologies. Experienced in both frontend and backend development with a strong grip on team collaboration and ownership.
 
 ---
 
-## About Me
+## 🚀 Tech Stack
 
-I’m a third-year engineering student with a strong foundation in software development and a curiosity for space and quantum physics. I’ve worked with various technologies across the stack, led multiple teams at national-level hackathons, and built projects that aim to create real impact.
-
----
-
-## Technologies & Tools
-
-- Languages: JavaScript, Python, TypeScript, C++
-- Frontend: React.js, Next.js, Tailwind CSS, HTML, CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB, Firebase, PostgreSQL
-- Tools: Git, Figma, Render, Vercel, Cloudinary, OneSignal
-- Others: REST APIs, Socket.io, Web Scraping (BeautifulSoup, Scrapy)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## Experience
+## 🎓 Education
 
-**Sprint Analytics, Pune**  
-*Full Stack Developer Intern*  
-Sept 2024 – Mar 2025  
-- Developed a document handling system for ITR files used by banks for loan approvals  
-- Designed and implemented a billing module  
-- Built dynamic search and pagination for large datasets  
-- Collaborated directly with the tech lead in sprint-based development
+**Bachelor of Engineering (2021–2025)**  
+IES College of Technology, Bhopal  
+Current CGPA: 8.3  
 
----
+**Class XII – CBSE (2021)**  
+Gurudev Public School  
+Score: 94%
 
-## Achievements & Leadership
-
-- Runner-up at National Hackathon (Team Leader)
-- Head Girl, Gurudev Public School  
-- 2-time National Hackathon Finalist  
-- Implemented end-to-end features like OTP login, dashboard filters, and reports
+**Class X – CBSE (2019)**  
+Gurudev Public School  
+Score: 96%
 
 ---
 
-## Projects
+## 💼 Experience
 
-**Learnify**  
-A platform for college students to upload and showcase academic projects  
-- Features: project search, domain filtering, admin dashboard, idea board  
-- Stack: React, Firebase, Tailwind CSS  
-- [GitHub](https://github.com/yourusername/learnify) | [Live](https://learnify.vercel.app)
-
-**EventPulse**  
-Event management and registration platform  
-- Features: event creation, registration system, custom event dashboards  
-- Stack: React, Firebase, MongoDB
-
-**EcoTrack**  
-Tracks carbon footprint and suggests sustainable actions  
-- Real-time dashboard, activity logging, habit challenges  
-- Stack: React, Tailwind, Firebase  
-- [GitHub](https://github.com/yourusername/ecotrack)
+**Sprint Analytics Pvt. Ltd. – Full Stack Developer Intern**  
+_Pune | Sept 2024 – Mar 2025_  
+- Developed an automated billing system and document workflows for banks using ITR data  
+- Implemented search, pagination, and reporting features for large datasets  
+- Worked across the stack with Firebase, React, Node.js, and Tailwind CSS  
 
 ---
 
-## Goals
+## 🛠️ Projects
 
-- Build tech that solves real societal problems  
-- Keep exploring space, physics, and finance  
+### Learnify  
+Platform for students to upload academic projects, discover peer work, and explore ideas.  
+Stack: React, Firebase, Tailwind  
+[GitHub](https://github.com/yourusername/learnify) | [Live](https://learnify.vercel.app)
+
+### EventPulse  
+End-to-end event registration and management portal.  
+Stack: React, MongoDB, Express  
+[GitHub](https://github.com/yourusername/eventpulse)
+
+---
+
+## 🏆 Achievements
+
+- Runner-up at a National Hackathon (Team Leader)  
+- 2x National Hackathon Finalist  
+- Head Girl at Gurudev Public School  
+- Designed and led critical features like OTP Login, Filter Dashboards, and Dynamic PDF Reports
+
+---
+
+## 📌 Goals
+
+- Build meaningful products that benefit society  
+- Explore and learn space science and finance  
 - Contribute to open source  
-- Land a meaningful software developer role in a product-based company
+- Join a mission-driven tech team focused on innovation
 
 ---
 
-## Let's Connect
+## 📫 Contact
 
 **Email**: himanshipatel.dev@gmail.com  
 **LinkedIn**: [linkedin.com/in/himanshipatel](https://linkedin.com/in/himanshipatel)  

@@ -27,11 +27,11 @@ Currently in final year of engineering at IES College of Technology, Bhopal. Pas
 IES College of Technology, Bhopal  
 Current CGPA: 8.3  
 
-**Class XII – CBSE (2021)**  
+**Class XII – (2022)**  
 Gurudev Public School  
 Score: 94%
 
-**Class X – CBSE (2019)**  
+**Class X - (2020)**  
 Gurudev Public School  
 Score: 96%
 
@@ -66,16 +66,7 @@ Stack: React, MongoDB, Express
 - Runner-up at a National Hackathon (Team Leader)  
 - 2x National Hackathon Finalist  
 - Head Girl at Gurudev Public School  
-- Designed and led critical features like OTP Login, Filter Dashboards, and Dynamic PDF Reports
-
----
-
-## 📌 Goals
-
-- Build meaningful products that benefit society  
-- Explore and learn space science and finance  
-- Contribute to open source  
-- Join a mission-driven tech team focused on innovation
+- College Topper
 
 ---
 

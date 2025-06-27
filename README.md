@@ -23,7 +23,7 @@ Currently in final year of engineering at IES College of Technology, Bhopal. Pas
 
 ## 🎓 Education
 
-**Bachelor of Engineering (2021–2025)**  
+**Bachelor of Engineering (2022–2026)**  
 IES College of Technology, Bhopal  
 Current CGPA: 8.3  
 

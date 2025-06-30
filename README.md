@@ -72,6 +72,6 @@ Stack: React, MongoDB, Express
 
 ## 📫 Contact
 
-**Email**: himanshipatel.dev@gmail.com  
-**LinkedIn**: [linkedin.com/in/himanshipatel](https://linkedin.com/in/himanshipatel)  
-**GitHub**: [github.com/himanshipatel](https://github.com/himanshipatel)
+**Email**: himanship871@gmail.com  
+**LinkedIn**: [linkedin.com/in/himi04](https://linkedin.com/in/himi04)  
+**Portfolio**: [Portfolio](https://himanshi.vercel.app)

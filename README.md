@@ -9,7 +9,6 @@ Currently in final year of engineering at IES College of Technology, Bhopal. Pas
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=flat&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -40,10 +39,9 @@ Score: 96%
 ## 💼 Experience
 
 **Sprint Analytics Pvt. Ltd. – Full Stack Developer Intern**  
-_Pune | Sept 2024 – Mar 2025_  
 - Developed an automated billing system and document workflows for banks using ITR data  
 - Implemented search, pagination, and reporting features for large datasets  
-- Worked across the stack with Firebase, React, Node.js, and Tailwind CSS  
+- Worked across the stack with React, Node.js, and Tailwind CSS  
 
 ---
 
@@ -52,12 +50,7 @@ _Pune | Sept 2024 – Mar 2025_
 ### Learnify  
 Platform for students to upload academic projects, discover peer work, and explore ideas.  
 Stack: React, Firebase, Tailwind  
-[GitHub](https://github.com/yourusername/learnify) | [Live](https://learnify.vercel.app)
-
-### EventPulse  
-End-to-end event registration and management portal.  
-Stack: React, MongoDB, Express  
-[GitHub](https://github.com/yourusername/eventpulse)
+ [Live](https://learnify-projects.vercel.app)
 
 ---
 

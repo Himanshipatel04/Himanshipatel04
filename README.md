@@ -67,4 +67,4 @@ Stack: React, Firebase, Tailwind
 
 **Email**: himanship871@gmail.com  
 **LinkedIn**: [linkedin.com/in/himi04](https://linkedin.com/in/himi04)  
-**Portfolio**: [Portfolio](https://himanshi.vercel.app)
+**Portfolio**: [Portfolio](https://portfoliohimi.vercel.app)

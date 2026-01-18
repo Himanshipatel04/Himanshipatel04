@@ -38,15 +38,17 @@ Score: 96%
 ## 💼 Experience
 
 **Hummingbird Web Solutions. – Software Developer Intern** [Jan 2026 - Present]
-- Joined recently.
+Joined recently.
 
 **Betatest Solutions Pvt. Ltd. – Software Engineer Intern** [Nov 2025 - Jan 2026]
+
 • Worked on backend for budget module of a finance application using Node.js, TypeScript, Drizzle, and
 PostgreSQL.
 • Built and tested APIs using Bruno, ensuring reliable and scalable backend functionality.
 • Wrote the test cases for the different modules using Vitest.
 
 **Sprint Analytics Pvt. Ltd. – Full Stack Developer Intern** [Sept 2024 - Mar 2025]
+
 • Developed and automated billing using cron-based scheduling and created notification services using Typescript.
 • Implemented search, pagination, and optimized handling of large, dynamic JSONs.
 • Contributed to developing on screen report for enhancing user experience and actively participated in standups.

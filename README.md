@@ -2,21 +2,20 @@
 
 Full Stack Developer | Problem Solver | Tech Explorer
 
-Currently in final year of engineering at IES College of Technology, Bhopal. Passionate about building, solving real-world problems, and constantly learning new technologies. Experienced in both frontend and backend development with a strong grip on team collaboration and ownership.
+Currently in final year of engineering at IES College of Technology, Bhopal. Curious techie with 1.5+ experience in SE through internships and personal projects, exploring the vast realms of Software Engineering, with a growing interest in System Design and how scalable systems are built.
 
 ---
 
 ## Tech Stack
+ • Languages - Python, Java, JavaScript, TypeScript
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+ • Databases - MySQL, MongoDB, PostgreSQL
+
+ • Web & Backend Development - HTML, CSS, JavaScript, React.js, Next.js, Redux, RTK, Node.js, Express.js, FastAPI, REST APIs, Spring boot, Zustand
+
+ • Tools & Platforms - Git, Visual Studio Code, IntelliJ IDEA, pgAdmin, Docker, Redis, Firebase, Linux, Drizzle ORM, Bruno
+
+ • Core Computer Science - Computer Networks, Operating Systems, Database Management Systems, Object-Oriented Programming
 
 ---
 
@@ -38,28 +37,44 @@ Score: 96%
 
 ## 💼 Experience
 
-**Sprint Analytics Pvt. Ltd. – Full Stack Developer Intern**  
-- Developed an automated billing system and document workflows for banks using ITR data  
-- Implemented search, pagination, and reporting features for large datasets  
-- Worked across the stack with React, Node.js, and Tailwind CSS  
+**Hummingbird Web Solutions. – Software Developer Intern** [Jan 2026 - Present]
+- Joined recently.
+
+**Betatest Solutions Pvt. Ltd. – Software Engineer Intern** [Nov 2025 - Jan 2026]
+• Worked on backend for budget module of a finance application using Node.js, TypeScript, Drizzle, and
+PostgreSQL.
+• Built and tested APIs using Bruno, ensuring reliable and scalable backend functionality.
+• Wrote the test cases for the different modules using Vitest.
+
+**Sprint Analytics Pvt. Ltd. – Full Stack Developer Intern** [Sept 2024 - Mar 2025]
+• Developed and automated billing using cron-based scheduling and created notification services using Typescript.
+• Implemented search, pagination, and optimized handling of large, dynamic JSONs.
+• Contributed to developing on screen report for enhancing user experience and actively participated in standups.
 
 ---
 
 ## 🛠️ Projects
 
+
+### Indic Roots
+Built features for an immersive heritage platform offering VR/360° experiences, personal vault, school curriculum, games, and AI-driven chatbot. Integrated marketplace modules, monument and history sections, and secure Clerk-based authentication with beautiful UI.
+[Live](https://indic-roots.vercel.app)
+
 ### Learnify  
 Platform for students to upload academic projects, discover peer work, and explore ideas.  
-Stack: React, Firebase, Tailwind  
- [Live](https://learnify-projects.vercel.app)
+[Live](https://learnify-projects.vercel.app)
 
 ---
 
 ## 🏆 Achievements
 
-- Runner-up at a National Hackathon (Team Leader)  
-- 2x National Hackathon Finalist  
-- Head Girl at Gurudev Public School  
-- College Topper
+ • 950k+ LinkedIn impressions
+ • College topper for 2 consecutive semesters
+ • Flipkart Grid 7.0 – Semi Finalist
+ • Smart India Hackathon 2023 – Grand Finalist
+ • Citronics 2024 – Runner Up
+ • Savishkar Madhya Bharat 2025 – 3rd Place
+ • Smart India Hackathon 2025 – Grand Finalist
 
 ---
 

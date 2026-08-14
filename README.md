@@ -2,8 +2,8 @@
 
 **Full Stack Developer | Problem Solver | Tech Explorer**
 
-📍 Pune, Maharashtra | 📞 +91 8719911890 | 📧 himanship871@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/himi04) • [Portfolio](https://himanshi.live/) • GitHub • LeetCode
+📍 Pune, Maharashtra | 📧 himanship871@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/himi04) • [Portfolio](https://himanshi.live/) • [Leetcode](https://leetcode.com/u/himanshi0416/)
 
 Final-year Engineering Student (2022–2026) — IES College of Technology, Bhopal
 

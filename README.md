@@ -50,8 +50,15 @@ OOP/OOPS • Data Structures & Algorithms • Operating Systems • DBMS • Com
 
 ## 💼 Experience
 
+### Software Engineer — Playarka
+**Aug 2026 – Present | Pune, Maharashtra**
+
+- Working as a Software Developer, contributing to product development and building scalable web applications.
+- Working across frontend and backend systems, focusing on clean architecture, performance, and reliable user experiences.
+- Contributing to feature development, bug fixes, UI improvements, API integrations, and overall application quality.
+
 ### Software Developer Intern — Hummingbird Web Solutions
-**Jan 2026 – Present | Pune, Maharashtra**
+**Jan 2026 – Aug 2026 | Pune, Maharashtra**
 
 - Contributed to a **headless e-commerce application** using Next.js with Adobe Commerce.
 - Implemented checkout flows with **HitPay and Atome payment gateways**, Google reCAPTCHA, cart functionality, and GraphQL API integrations.

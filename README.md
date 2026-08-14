@@ -53,9 +53,7 @@ OOP/OOPS • Data Structures & Algorithms • Operating Systems • DBMS • Com
 ### Software Engineer — Playarka
 **Aug 2026 – Present | Pune, Maharashtra**
 
-- Working as a Software Developer, contributing to product development and building scalable web applications.
-- Working across frontend and backend systems, focusing on clean architecture, performance, and reliable user experiences.
-- Contributing to feature development, bug fixes, UI improvements, API integrations, and overall application quality.
+- Working as a Software Developer, contributing to product development.
 
 ### Software Developer Intern — Hummingbird Web Solutions
 **Jan 2026 – Aug 2026 | Pune, Maharashtra**

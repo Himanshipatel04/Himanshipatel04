@@ -16,16 +16,16 @@ I enjoy exploring new technologies, designing clean architectures, and turning i
 ## ⚙️ Tech Stack
 
 ### Languages
-Python • Java • SQL • JavaScript • TypeScript
+Python • TypeScript
 
 ### Databases
-MySQL • MongoDB • PostgreSQL
+• MongoDB • PostgreSQL
 
 ### Web & Backend Development
-HTML • CSS • React.js • Next.js • Tailwind CSS • Redux • RTK • Zustand • Node.js • Express.js • FastAPI • RESTful APIs • GraphQL • Spring Boot • Drizzle ORM • Magento
+React.js • Next.js • FastAPI • RESTful APIs • GraphQL 
 
 ### Tools & DevOps
-Git • GitHub • GitHub Actions • VS Code • IntelliJ IDEA • pgAdmin • Docker • Redis • Firebase • Linux • Bruno • Postman
+• pgAdmin • Docker • Redis • Firebase • Linux • Bruno • Postman
 
 ### Core CS Fundamentals
 OOP/OOPS • Data Structures & Algorithms • Operating Systems • DBMS • Computer Networks

@@ -3,7 +3,7 @@
 **Full Stack Developer | Problem Solver | Tech Explorer**
 
 📍 Pune, Maharashtra | 📧 himanship871@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/himi04) • [Portfolio](https://himanshi.live/) • [Leetcode](https://leetcode.com/u/himanshi0416/)
+🔗 [LinkedIn](https://linkedin.com/in/himi04) • [Portfolio](https://himanshi.site/) • [Leetcode](https://leetcode.com/u/himanshi0416/)
 
 Final-year Engineering Student (2022–2026) — IES College of Technology, Bhopal
 
@@ -127,7 +127,7 @@ A heritage platform offering **VR/360° experiences, games, curriculum modules, 
 
 💼 **LinkedIn:** [linkedin.com/in/himi04](https://linkedin.com/in/himi04)
 
-🌐 **Portfolio:** [himanshi.live](https://himanshi.live/)
+🌐 **Portfolio:** [himanshi.site](https://himanshi.site/)
 
 💻 **GitHub:** [GitHub](https://github.com/)
 
